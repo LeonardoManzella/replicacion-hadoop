@@ -1,7 +1,8 @@
+/Debug/
 FileSystem/.cproject
 FileSystem/.project
-builderr.log
-deploy/
+/Tests/Test_FS_SubirArchivoFinal/Debug/
+/Tests/Test_FS_PeticionMarta/Debug/
 
 # Object files
 *.o
@@ -39,11 +40,6 @@ deploy/
 # Eclipse Temporal Project Files
 .project
 .cproject
-/Debug/
-/Debug/
-/fsdb/
-/DebugFS/
-/DebugMarta/
-/obj/
-/bin/
-/libdb/
+/.ycm_extra_conf.pyc
+/.ycm_extra_conf.py
+/Tests/

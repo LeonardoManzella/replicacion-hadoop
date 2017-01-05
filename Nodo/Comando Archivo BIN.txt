@@ -1,0 +1,2 @@
+Dado por la Catedra:
+truncate -s 2G datos.bin
